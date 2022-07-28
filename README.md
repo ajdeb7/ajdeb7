@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Andrew deBerardinis
+- Welcome to my GitHub
 
 <!---
 ajdeb7/ajdeb7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
